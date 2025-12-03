@@ -33,6 +33,7 @@ for your topic of interest. You can also use the search function in the top-left
    :caption: Testing and reporting issues
    :name: sec-reporting-issues
 
+   reporting_issues/issue_report_writing
    reporting_issues/first_steps
    reporting_issues/bisecting
 
